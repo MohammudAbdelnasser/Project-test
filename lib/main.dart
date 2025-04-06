@@ -2,6 +2,9 @@
 // test the edits in github goooooooooooooooooooooooooo
 // the second for this file onlyyyyyyyyyyyyyyyy
 
+
+// edit in new branch to test -------------
+
 import 'package:firebase_core/firebase_core.dart';
 // import 'firebase_options.dart';
 import 'package:project_2/firebase_options.dart';
